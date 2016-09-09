@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+*.iml
+target/
+src/main/webapp/template/
+src/main/static/node_modules/
